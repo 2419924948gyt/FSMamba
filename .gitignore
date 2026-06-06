@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+data/
+work_dirs/
+checkpoints/
+*.ckpt
+*.pth
+*.pth.tar
+*.whl
+
+.env
+.vscode/
+.idea/
